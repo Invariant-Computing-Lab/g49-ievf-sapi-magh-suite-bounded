@@ -1,0 +1,16 @@
+{
+  "records": [
+    {
+      "prediction": true,
+      "truth": true
+    },
+    {
+      "prediction": false,
+      "truth": false
+    },
+    {
+      "prediction": false,
+      "truth": true
+    }
+  ]
+}
